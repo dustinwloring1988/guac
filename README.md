@@ -1,4 +1,4 @@
-# Docker Server Setup ( Guac - Remote Access Server Setup )
+# Docker Server Setup ( Guac - Server Setup )
 
 # Install
 
