@@ -9,5 +9,5 @@ mkdir docker
 cd docker
 git clone https://github.com/dustinwloring1988/guac
 cd guac
-docker-compose.yml
+docker-compose up -d
 ```
